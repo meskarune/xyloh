@@ -1,0 +1,27 @@
+!============================
+! Dolores Portalatin (meskarune)
+! https://github.com/meskarune/xyloh
+!============================
+
+*foreground: #d8dabc
+*background: #383a3b
+*cursorColor: #ffffff
+
+*color0: #22272f
+*color1: #cc4165
+*color2: #78cc41
+*color3: #ccbe41
+*color4: #415dcc
+*color5: #a341cc
+*color6: #41cc9f
+*color7: #d8dabc
+*color8: #373f4c
+*color9: #ff99cc
+*color10: #ccff99
+*color11: #ffff99
+*color12: #99c2ff
+*color13: #c299ff
+*color14: #99ffcc
+*color15: #ffffff
+
+! vim: ai:si:et:ts=4:sw=4:ft=xdefaults:
